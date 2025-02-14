@@ -21,7 +21,7 @@ The data for this project is sourced from the Kaggle dataset:
 ## Schema
 
 ***sql
---Netflix project
+Netflix project
 
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
